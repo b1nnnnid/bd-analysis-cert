@@ -1,0 +1,194 @@
+country,beer_servings,continent
+Afghanistan,0,AS
+Albania,89,EU
+Algeria,25,AF
+Andorra,245,EU
+Angola,217,AF
+Antigua & Barbuda,102,NA
+Argentina,193,SA
+Armenia,21,EU
+Australia,261,OC
+Austria,279,EU
+Azerbaijan,21,EU
+Bahamas,122,NA
+Bahrain,42,AS
+Bangladesh,0,AS
+Barbados,143,NA
+Belarus,142,EU
+Belgium,295,EU
+Belize,263,NA
+Benin,34,AF
+Bhutan,23,AS
+Bolivia,167,SA
+Bosnia-Herzegovina,76,EU
+Botswana,173,AF
+Brazil,245,SA
+Brunei,31,AS
+Bulgaria,231,EU
+Burkina Faso,25,AF
+Burundi,88,AF
+Cote d'Ivoire,37,AF
+Cabo Verde,144,AF
+Cambodia,57,AS
+Cameroon,147,AF
+Canada,240,NA
+Central African Republic,17,AF
+Chad,15,AF
+Chile,130,SA
+China,79,AS
+Colombia,159,SA
+Comoros,1,AF
+Congo,76,AF
+Cook Islands,0,OC
+Costa Rica,149,NA
+Croatia,230,EU
+Cuba,93,NA
+Cyprus,192,EU
+Czech Republic,361,EU
+North Korea,0,AS
+DR Congo,32,AF
+Denmark,224,EU
+Djibouti,15,AF
+Dominica,52,NA
+Dominican Republic,193,NA
+Ecuador,162,SA
+Egypt,6,AF
+El Salvador,52,NA
+Equatorial Guinea,92,AF
+Eritrea,18,AF
+Estonia,224,EU
+Ethiopia,20,AF
+Fiji,77,OC
+Finland,263,EU
+France,127,EU
+Gabon,347,AF
+Gambia,8,AF
+Georgia,52,EU
+Germany,346,EU
+Ghana,31,AF
+Greece,133,EU
+Grenada,199,NA
+Guatemala,53,NA
+Guinea,9,AF
+Guinea-Bissau,28,AF
+Guyana,93,SA
+Haiti,1,NA
+Honduras,69,NA
+Hungary,234,EU
+Iceland,233,EU
+India,9,AS
+Indonesia,5,AS
+Iran,0,AS
+Iraq,9,AS
+Ireland,313,EU
+Israel,63,AS
+Italy,85,EU
+Jamaica,82,NA
+Japan,77,AS
+Jordan,6,AS
+Kazakhstan,124,AS
+Kenya,58,AF
+Kiribati,21,OC
+Kuwait,0,AS
+Kyrgyzstan,31,AS
+Laos,62,AS
+Latvia,281,EU
+Lebanon,20,AS
+Lesotho,82,AF
+Liberia,19,AF
+Libya,0,AF
+Lithuania,343,EU
+Luxembourg,236,EU
+Madagascar,26,AF
+Malawi,8,AF
+Malaysia,13,AS
+Maldives,0,AS
+Mali,5,AF
+Malta,149,EU
+Marshall Islands,0,OC
+Mauritania,0,AF
+Mauritius,98,AF
+Mexico,238,NA
+Micronesia,62,OC
+Monaco,0,EU
+Mongolia,77,AS
+Montenegro,31,EU
+Morocco,12,AF
+Mozambique,47,AF
+Myanmar,5,AS
+Namibia,376,AF
+Nauru,49,OC
+Nepal,5,AS
+Netherlands,251,EU
+New Zealand,203,OC
+Nicaragua,78,NA
+Niger,3,AF
+Nigeria,42,AF
+Niue,188,OC
+Norway,169,EU
+Oman,22,AS
+Pakistan,0,AS
+Palau,306,OC
+Panama,285,NA
+Papua New Guinea,44,OC
+Paraguay,213,SA
+Peru,163,SA
+Philippines,71,AS
+Poland,343,EU
+Portugal,194,EU
+Qatar,1,AS
+South Korea,140,AS
+Moldova,109,EU
+Romania,297,EU
+Russian Federation,247,AS
+Rwanda,43,AF
+St. Kitts & Nevis,194,NA
+St. Lucia,171,NA
+St. Vincent & the Grenadines,120,NA
+Samoa,105,OC
+San Marino,0,EU
+Sao Tome & Principe,56,AF
+Saudi Arabia,0,AS
+Senegal,9,AF
+Serbia,283,EU
+Seychelles,157,AF
+Sierra Leone,25,AF
+Singapore,60,AS
+Slovakia,196,EU
+Slovenia,270,EU
+Solomon Islands,56,OC
+Somalia,0,AF
+South Africa,225,AF
+Spain,284,EU
+Sri Lanka,16,AS
+Sudan,8,AF
+Suriname,128,SA
+Swaziland,90,AF
+Sweden,152,EU
+Switzerland,185,EU
+Syria,5,AS
+Tajikistan,2,AS
+Thailand,99,AS
+Macedonia,106,EU
+Timor-Leste,1,AS
+Togo,36,AF
+Tonga,36,OC
+Trinidad & Tobago,197,NA
+Tunisia,51,AF
+Turkey,51,AS
+Turkmenistan,19,AS
+Tuvalu,6,OC
+Uganda,45,AF
+Ukraine,206,EU
+United Arab Emirates,16,AS
+United Kingdom,219,EU
+Tanzania,36,AF
+USA,249,NA
+Uruguay,115,SA
+Uzbekistan,25,AS
+Vanuatu,21,OC
+Venezuela,333,SA
+Vietnam,111,AS
+Yemen,6,AS
+Zambia,32,AF
+Zimbabwe,64,AF
